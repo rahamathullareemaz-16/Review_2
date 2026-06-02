@@ -1,4 +1,4 @@
-# HCL 2 - Data Structures and C Programming Programs
+Data Structures and C Programming Programs
 
 ## Overview
 
